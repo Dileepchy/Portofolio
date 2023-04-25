@@ -34,12 +34,6 @@ const Me = () => {
             familiar with front-end development tools and workflows, such as
             version control systems like Git and package managers like npm.
           </p>
-          <p className="py-4 max-w-2xl mx-auto">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem eius
-            rem nisi sit harum a tempora odit nam quidem repellendus nobis,
-            aspernatur impedit provident pariatur omnis id vel quibusdam
-            voluptatem.
-          </p>
         </div>
 
         <div className="flex items-center justify-center gap-10">
